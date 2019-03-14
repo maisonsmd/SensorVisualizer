@@ -1,0 +1,16 @@
+C:\Users\maiso\source\repos\BBR_Calibrator_windows\BBR_Calibrator\MaterialSkin\bin\Debug\MaterialSkin.dll
+C:\Users\maiso\source\repos\BBR_Calibrator_windows\BBR_Calibrator\MaterialSkin\bin\Debug\MaterialSkin.pdb
+C:\Users\maiso\source\repos\BBR_Calibrator_windows\BBR_Calibrator\MaterialSkin\obj\Debug\MaterialSkin.csprojAssemblyReference.cache
+C:\Users\maiso\source\repos\BBR_Calibrator_windows\BBR_Calibrator\MaterialSkin\obj\Debug\MaterialSkin.Properties.Resources.resources
+C:\Users\maiso\source\repos\BBR_Calibrator_windows\BBR_Calibrator\MaterialSkin\obj\Debug\MaterialSkin.csproj.GenerateResource.cache
+C:\Users\maiso\source\repos\BBR_Calibrator_windows\BBR_Calibrator\MaterialSkin\obj\Debug\MaterialSkin.csproj.CoreCompileInputs.cache
+C:\Users\maiso\source\repos\BBR_Calibrator_windows\BBR_Calibrator\MaterialSkin\obj\Debug\MaterialSkin.dll
+C:\Users\maiso\source\repos\BBR_Calibrator_windows\BBR_Calibrator\MaterialSkin\obj\Debug\MaterialSkin.pdb
+C:\Users\maiso\source\repos\SensorVisualizer\MaterialSkin\bin\Debug\MaterialSkin.dll
+C:\Users\maiso\source\repos\SensorVisualizer\MaterialSkin\bin\Debug\MaterialSkin.pdb
+C:\Users\maiso\source\repos\SensorVisualizer\MaterialSkin\obj\Debug\MaterialSkin.csprojAssemblyReference.cache
+C:\Users\maiso\source\repos\SensorVisualizer\MaterialSkin\obj\Debug\MaterialSkin.Properties.Resources.resources
+C:\Users\maiso\source\repos\SensorVisualizer\MaterialSkin\obj\Debug\MaterialSkin.csproj.GenerateResource.cache
+C:\Users\maiso\source\repos\SensorVisualizer\MaterialSkin\obj\Debug\MaterialSkin.csproj.CoreCompileInputs.cache
+C:\Users\maiso\source\repos\SensorVisualizer\MaterialSkin\obj\Debug\MaterialSkin.dll
+C:\Users\maiso\source\repos\SensorVisualizer\MaterialSkin\obj\Debug\MaterialSkin.pdb

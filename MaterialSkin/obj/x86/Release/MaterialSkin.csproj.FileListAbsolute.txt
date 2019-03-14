@@ -1,0 +1,8 @@
+C:\Users\maiso\source\repos\BBR_Calibrator_windows\BBR_Calibrator\MaterialSkin\bin\x86\Release\MaterialSkin.dll
+C:\Users\maiso\source\repos\BBR_Calibrator_windows\BBR_Calibrator\MaterialSkin\bin\x86\Release\MaterialSkin.pdb
+C:\Users\maiso\source\repos\BBR_Calibrator_windows\BBR_Calibrator\MaterialSkin\obj\x86\Release\MaterialSkin.csprojAssemblyReference.cache
+C:\Users\maiso\source\repos\BBR_Calibrator_windows\BBR_Calibrator\MaterialSkin\obj\x86\Release\MaterialSkin.Properties.Resources.resources
+C:\Users\maiso\source\repos\BBR_Calibrator_windows\BBR_Calibrator\MaterialSkin\obj\x86\Release\MaterialSkin.csproj.GenerateResource.cache
+C:\Users\maiso\source\repos\BBR_Calibrator_windows\BBR_Calibrator\MaterialSkin\obj\x86\Release\MaterialSkin.csproj.CoreCompileInputs.cache
+C:\Users\maiso\source\repos\BBR_Calibrator_windows\BBR_Calibrator\MaterialSkin\obj\x86\Release\MaterialSkin.dll
+C:\Users\maiso\source\repos\BBR_Calibrator_windows\BBR_Calibrator\MaterialSkin\obj\x86\Release\MaterialSkin.pdb

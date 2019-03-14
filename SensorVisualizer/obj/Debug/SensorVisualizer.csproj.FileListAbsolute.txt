@@ -1,0 +1,13 @@
+C:\Users\maiso\source\repos\SensorVisualizer\SensorVisualizer\bin\Debug\SensorVisualizer.exe.config
+C:\Users\maiso\source\repos\SensorVisualizer\SensorVisualizer\bin\Debug\SensorVisualizer.exe
+C:\Users\maiso\source\repos\SensorVisualizer\SensorVisualizer\bin\Debug\SensorVisualizer.pdb
+C:\Users\maiso\source\repos\SensorVisualizer\SensorVisualizer\obj\Debug\SensorVisualizer.csprojAssemblyReference.cache
+C:\Users\maiso\source\repos\SensorVisualizer\SensorVisualizer\obj\Debug\SensorVisualizer.FrmMain.resources
+C:\Users\maiso\source\repos\SensorVisualizer\SensorVisualizer\obj\Debug\SensorVisualizer.Properties.Resources.resources
+C:\Users\maiso\source\repos\SensorVisualizer\SensorVisualizer\obj\Debug\SensorVisualizer.csproj.GenerateResource.cache
+C:\Users\maiso\source\repos\SensorVisualizer\SensorVisualizer\obj\Debug\SensorVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\maiso\source\repos\SensorVisualizer\SensorVisualizer\obj\Debug\SensorVisualizer.exe
+C:\Users\maiso\source\repos\SensorVisualizer\SensorVisualizer\obj\Debug\SensorVisualizer.pdb
+C:\Users\maiso\source\repos\SensorVisualizer\SensorVisualizer\bin\Debug\MaterialSkin.dll
+C:\Users\maiso\source\repos\SensorVisualizer\SensorVisualizer\bin\Debug\MaterialSkin.pdb
+C:\Users\maiso\source\repos\SensorVisualizer\SensorVisualizer\obj\Debug\SensorVisualizer.csproj.CopyComplete
